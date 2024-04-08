@@ -2,6 +2,14 @@
 
 Using two created measures of risk we can assess NYC's health inspection program for potential areas for improvement in restaurant evaluation.
 
+***
+
+*** REVISIT ***
+
+> This project is on a temporary break after two sets of major revisions. I don't want to abandon it because the data is interesting and may be more useful for exploration as opposed to modelling based on how I cleaned it and the original variables. However, currently, if I have to look at it for a second longer I might collapse into a pillar of dust.
+
+***
+
 1. GRADED:
 There are multiple circumstances when a restaurant may be scored but ungraded after a health inspection in New York City - 
 if they recieved a score above 13 (the threshold for an A grade) on their initial inspection, monitoring inspections on restaurants that failed re-inspection, new restaurants not open to public, restaurants wanting to reopen after closing, and investigations of complaints. Subsetting initial inspections we can look for patterns in failing restaurants.
